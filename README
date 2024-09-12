@@ -1,0 +1,61 @@
+# VimeoSpeeder 🚀
+
+**VimeoSpeeder** es una extensión para navegadores que te permite controlar la velocidad de reproducción de videos incrustados desde Vimeo. Con esta herramienta, puedes acelerar o reducir la velocidad de cualquier video simplemente ajustando el parámetro `speed` en la URL del video embebido.
+
+---
+
+## 🎯 Objetivo
+
+El objetivo de **VimeoSpeeder** es facilitar la modificación de la velocidad de reproducción de los videos de Vimeo incrustados en páginas web, proporcionando una experiencia más dinámica y adaptada a las necesidades del usuario.
+
+### Funciones clave:
+- ⏩ **Acelerar videos** para consumir contenido más rápido.
+- 🐢 **Reducir la velocidad** para ver detalles importantes con calma.
+- 🎬 Compatible con cualquier página que use videos incrustados de Vimeo.
+
+---
+
+## 📦 Instalación
+
+### Chrome
+
+1. Descarga los archivos de **VimeoSpeeder** en tu computadora.
+2. Abre Chrome y escribe `chrome://extensions` en la barra de direcciones.
+3. Activa el **Modo de desarrollador** en la parte superior derecha.
+4. Haz clic en el botón **Cargar extensión desempaquetada**.
+5. Selecciona la carpeta donde guardaste los archivos de **VimeoSpeeder**.
+6. ¡Listo! Ahora puedes usar **VimeoSpeeder** para ajustar la velocidad de videos de Vimeo.
+
+### Opera
+
+1. Descarga los archivos de **VimeoSpeeder** en tu computadora.
+2. Abre Opera y escribe `opera://extensions` en la barra de direcciones.
+3. Activa el **Modo de desarrollador** en la esquina superior derecha.
+4. Haz clic en **Cargar extensión desempaquetada**.
+5. Selecciona la carpeta donde están los archivos de **VimeoSpeeder**.
+6. ¡Todo listo! Ya puedes ajustar la velocidad de tus videos de Vimeo.
+
+---
+
+## 🔧 Uso
+
+1. Abre cualquier página que contenga un video de Vimeo.
+2. Haz clic en el icono de **VimeoSpeeder** en la barra de extensiones.
+3. Selecciona la velocidad que deseas (por ejemplo, 0.5x para reproducir más lento, o 2x para acelerar el video).
+4. El video se actualizará automáticamente con la nueva velocidad.
+
+---
+
+## 👤 Autor
+
+- **Manel Comiche** - Desarollador Junior - [manelcomiche.com](https://manelcomiche.com)
+
+---
+
+## 📝 Llicència
+
+Este proyecto está bajo la licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+¡Disfruta ajustando la velocidad de tus videos de Vimeo con **VimeoSpeeder**! 😄
